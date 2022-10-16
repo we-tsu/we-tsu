@@ -49,4 +49,4 @@
 
 ![we.tsu GitHub stats](https://github-readme-stats.vercel.app/api?username=we-tsu&layout_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=we-tsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
