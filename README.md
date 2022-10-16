@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-    <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" alt="Anime rikka" width="200px">
+    <img src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" alt="Anime rikka" width="200">
     <h1 align="center">We.tsuツ</h1>
     <h3 align="center">Fullstack developer student and intern. I'm from Argentina, Buenos Aires.</h3>
 </div>
