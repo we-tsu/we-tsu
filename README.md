@@ -45,8 +45,7 @@
 </div>
 
 ### My stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=we.tsu&theme=radical&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=we-tsu&theme=onedark)](https://git.io/streak-stats)
 
 ![we.tsu GitHub stats](https://github-readme-stats.vercel.app/api?username=we-tsu&layout_icons=true&theme=radical)
 
